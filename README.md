@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **HTML, CSS, JS**
 
-- 👯 I’m looking to collaborate on **software or web developing projects**
+- 👯 I’m working on IOS app **Flashy**
 
 - 👨‍💻 All of my projects can be found on repositories [.](.)
 
